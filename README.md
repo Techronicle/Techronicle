@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white
+
 <!--
 **Techronicle/Techronicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
